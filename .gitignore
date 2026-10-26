@@ -1,0 +1,11 @@
+# Virtual environments and dependencies
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Temporary test images
+test_*.png
+avatar_nobg.png
+avt.jpg
+generate_banner_ref.py
